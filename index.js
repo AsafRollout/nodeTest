@@ -15,7 +15,7 @@ async function initRollout() {
   Rox.register('', flags);
 
   // Setup the Rollout key
-  await Rox.setup('63e2e358e8fe994d8974b3e0', options);
+  await Rox.setup('63e3c15c6d7470fccb7c33bc', options);
 
   // Boolean flag example
   if (flags.enableTutorial.isEnabled()) {
